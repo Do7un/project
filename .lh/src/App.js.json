@@ -1,0 +1,46 @@
+{
+    "sourceFile": "src/App.js",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 7,
+            "patches": [
+                {
+                    "date": 1659026785977,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1659026864723,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -4,9 +4,9 @@\n \n function App() {\n   return (\n     <div className=\"App\">\n-      <Navbar />\n+      <h1> h</h1>\n       \n     </div>\n   );\n }\n"
+                },
+                {
+                    "date": 1659026910552,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -4,9 +4,9 @@\n \n function App() {\n   return (\n     <div className=\"App\">\n-      <h1> h</h1>\n+      <h1> </h1>\n       \n     </div>\n   );\n }\n"
+                },
+                {
+                    "date": 1659028772651,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,6 +1,7 @@\n import react from 'react';\n import './App.css';\n+import \n \n \n function App() {\n   return (\n"
+                },
+                {
+                    "date": 1659028803340,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,7 +1,7 @@\n import react from 'react';\n import './App.css';\n-import \n+import import img1 from './images/1.png';\n \n \n function App() {\n   return (\n"
+                },
+                {
+                    "date": 1659029169494,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,9 +1,9 @@\n import react from 'react';\n import './App.css';\n-import import img1 from './images/1.png';\n \n \n+\n function App() {\n   return (\n     <div className=\"App\">\n       <h1> </h1>\n"
+                },
+                {
+                    "date": 1659029405706,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,6 +1,6 @@\n import React from 'react';\n-import Navbar from ''\n+import Navbar from '../componen'\n import './App.css';\n \n \n \n"
+                },
+                {
+                    "date": 1659029406329,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,6 +1,6 @@\n import React from 'react';\n-import Navbar from ''\n+import Navbar from '../componen'\n import './App.css';\n \n \n \n"
+                }
+            ],
+            "date": 1659026785977,
+            "name": "Commit-0",
+            "content": "import react from 'react';\nimport './App.css';\n\n\nfunction App() {\n  return (\n    <div className=\"App\">\n      <Navbar />\n      \n    </div>\n  );\n}\n\nexport default App;\n"
+        }
+    ]
+}
