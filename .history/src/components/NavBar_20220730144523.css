@@ -102,9 +102,9 @@
   
     .nav-links {
       text-align: center;
-      padding: 2rem;
-      width: 100%;
-      display: table;
+    padding: 2rem;
+    width: 100%;
+    display: table;
     }
   
     .nav-links:hover {

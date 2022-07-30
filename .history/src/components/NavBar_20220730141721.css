@@ -60,7 +60,7 @@
   
   .nav-links:hover {
     border-bottom: 4px solid #fff;
-    transition: all 0.1s ease-out;
+    transition: all 0.2s ease-out;
   }
   
   .fa-bars {
@@ -108,9 +108,10 @@
     }
   
     .nav-links:hover {
-      background-color: #fff;
+      background-color: rgb(241, 19, 19);
       color: #242424;
-      border-radius: 3;
+      border-radius: 0;
+      transition: 250ms;
     }
   
     .navbar-logo {

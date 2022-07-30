@@ -50,7 +50,7 @@
   }
   
   .nav-links {
-    color: #fff;
+    color: rgb(212, 61, 61);
     display: flex;
     align-items: center;
     text-decoration: none;
@@ -59,8 +59,9 @@
   }
   
   .nav-links:hover {
-    border-bottom: 4px solid #fff;
-    transition: all 0.1s ease-out;
+    border-bottom: 1px solid #fff;
+    margin: ;
+    transition: all 0.2s ease-out;
   }
   
   .fa-bars {
@@ -110,7 +111,7 @@
     .nav-links:hover {
       background-color: #fff;
       color: #242424;
-      border-radius: 3;
+      border-radius: 0;
     }
   
     .navbar-logo {

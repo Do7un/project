@@ -30,7 +30,7 @@ function NavBar() {
     <>
       <nav className='navbar'>
         <div className='navbar-container'>
-          <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
+          <Link to='/' className='navbar-logo' onClick={cl}>
             ANIMED <GiBoomerangSun/>
           </Link>
         </div>
@@ -55,7 +55,7 @@ function NavBar() {
           </li>
           <li className='nav-item'>
              <Link to='/' className='nav-links-mobile' onClick={closeMobileMenu}>
-              Close
+              Sign Up
              </Link>
           </li>
         </ul>

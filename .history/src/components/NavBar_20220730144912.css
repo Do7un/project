@@ -50,7 +50,7 @@
   }
   
   .nav-links {
-    color: #fff;
+    color: rgba(red, green, blue, alpha);
     display: flex;
     align-items: center;
     text-decoration: none;
